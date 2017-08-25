@@ -1,5 +1,13 @@
 # Some micropython demo
 
+## Bill of material
+![The things](DSC_1203.JPG?raw=True)
+
+* Nodemcu module. It have lua build in, which is cool oh well. I forgot where I get it from
+* a ssd1306 Oled module. It is pretty common. I get it here https://www.cytron.com.my/p-ds-oled-mod
+* a DHT22. Also a common electronic part. I get it https://www.cytron.com.my/p-sn-dht22
+
+## The code
 Here is the some demo code for the micropython demo. Here's how to run it. 
 
 1. Setup all the tools
